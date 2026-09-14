@@ -283,10 +283,13 @@ st.markdown(
 # MEDICAL IMAGE
 # =========================================================
 
+base_dir = Path(__file__).resolve().parent
+image_path = base_dir / "assets" / "medical_banner.jpg"
+
 try:
 
     st.image(
-        "assets/medical_banner.jpg",
+        image_path,
         use_container_width=True
     )
 
@@ -295,9 +298,6 @@ except:
     st.info(
         "Add your medical_banner.jpg inside the assets folder."
     )
-
-
-st.write("")
 
 
 # =========================================================
