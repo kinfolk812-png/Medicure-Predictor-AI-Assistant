@@ -1,0 +1,350 @@
+{
+    "Heart Disease": {
+
+        "Category": "Cardiology",
+
+        "Severity": "High",
+
+        "Specialist": "Cardiologist",
+
+        "Symptoms": [
+            "Chest Pain",
+            "Chest Tightness",
+            "Rapid Heartbeat",
+            "Difficulty Breathing"
+        ],
+
+        "Weights": {
+
+            "Chest Pain": 5,
+            "Chest Tightness": 4,
+            "Rapid Heartbeat": 4,
+            "Difficulty Breathing": 5
+
+        }
+    },
+
+
+    "Bronchitis": {
+
+        "Category": "Respiratory",
+
+        "Severity": "Medium",
+
+        "Specialist": "Pulmonologist",
+
+        "Symptoms": [
+            "Cough",
+            "Chest Pain",
+            "Fatigue",
+            "Sore Throat"
+        ],
+
+        "Weights": {
+
+            "Cough": 5,
+            "Chest Pain": 4,
+            "Fatigue": 3,
+            "Sore Throat": 2
+
+        }
+    },
+
+
+    "Sinusitis": {
+
+        "Category": "ENT",
+
+        "Severity": "Low",
+
+        "Specialist": "ENT Specialist",
+
+        "Symptoms": [
+            "Headache",
+            "Runny Nose",
+            "Sneezing",
+            "Sore Throat"
+        ],
+
+        "Weights": {
+
+            "Headache": 3,
+            "Runny Nose": 4,
+            "Sneezing": 3,
+            "Sore Throat": 3
+
+        }
+    },
+
+
+    "Food Allergy": {
+
+        "Category": "Allergy",
+
+        "Severity": "Medium",
+
+        "Specialist": "Allergist",
+
+        "Symptoms": [
+            "Skin Rash",
+            "Itching",
+            "Swelling",
+            "Vomiting"
+        ],
+
+        "Weights": {
+
+            "Skin Rash": 5,
+            "Itching": 4,
+            "Swelling": 5,
+            "Vomiting": 3
+
+        }
+    },
+
+
+    "Kidney Stone": {
+
+        "Category": "Kidney",
+
+        "Severity": "Medium",
+
+        "Specialist": "Urologist",
+
+        "Symptoms": [
+            "Back Pain",
+            "Blood in Urine",
+            "Nausea",
+            "Stomach Pain"
+        ],
+
+        "Weights": {
+
+            "Back Pain": 5,
+            "Blood in Urine": 5,
+            "Nausea": 3,
+            "Stomach Pain": 3
+
+        }
+    },
+
+
+    "Kidney Infection": {
+
+        "Category": "Kidney",
+
+        "Severity": "High",
+
+        "Specialist": "Nephrologist",
+
+        "Symptoms": [
+            "Fever",
+            "Back Pain",
+            "Burning Urination",
+            "Fatigue"
+        ],
+
+        "Weights": {
+
+            "Fever": 3,
+            "Back Pain": 5,
+            "Burning Urination": 5,
+            "Fatigue": 3
+
+        }
+    },
+
+
+    "Liver Disease": {
+
+        "Category": "Liver",
+
+        "Severity": "High",
+
+        "Specialist": "Gastroenterologist",
+
+        "Symptoms": [
+            "Fatigue",
+            "Loss of Appetite",
+            "Stomach Pain",
+            "Weight Loss"
+        ],
+
+        "Weights": {
+
+            "Fatigue": 4,
+            "Loss of Appetite": 5,
+            "Stomach Pain": 3,
+            "Weight Loss": 4
+
+        }
+    },
+
+
+    "Hepatitis": {
+
+        "Category": "Liver",
+
+        "Severity": "High",
+
+        "Specialist": "Gastroenterologist",
+
+        "Symptoms": [
+            "Fever",
+            "Fatigue",
+            "Stomach Pain",
+            "Loss of Appetite"
+        ],
+
+        "Weights": {
+
+            "Fever": 3,
+            "Fatigue": 4,
+            "Stomach Pain": 3,
+            "Loss of Appetite": 5
+
+        }
+    },
+
+
+    "Eye Infection": {
+
+        "Category": "Eye",
+
+        "Severity": "Low",
+
+        "Specialist": "Ophthalmologist",
+
+        "Symptoms": [
+            "Red Eyes",
+            "Watery Eyes",
+            "Eye Pain"
+        ],
+
+        "Weights": {
+
+            "Red Eyes": 5,
+            "Watery Eyes": 4,
+            "Eye Pain": 3
+
+        }
+    },
+
+
+    "Glaucoma": {
+
+        "Category": "Eye",
+
+        "Severity": "High",
+
+        "Specialist": "Ophthalmologist",
+
+        "Symptoms": [
+            "Blurred Vision",
+            "Eye Pain",
+            "Severe Headache"
+        ],
+
+        "Weights": {
+
+            "Blurred Vision": 5,
+            "Eye Pain": 4,
+            "Severe Headache": 3
+
+        }
+    },
+
+
+    "Alzheimer Disease": {
+
+        "Category": "Neurological",
+
+        "Severity": "High",
+
+        "Specialist": "Neurologist",
+
+        "Symptoms": [
+            "Memory Problems",
+            "Loss of Balance",
+            "Confusion"
+        ],
+
+        "Weights": {
+
+            "Memory Problems": 5,
+            "Loss of Balance": 4,
+            "Confusion": 4
+
+        }
+    },
+
+
+    "Parkinson Disease": {
+
+        "Category": "Neurological",
+
+        "Severity": "High",
+
+        "Specialist": "Neurologist",
+
+        "Symptoms": [
+            "Tremors",
+            "Loss of Balance",
+            "Weakness"
+        ],
+
+        "Weights": {
+
+            "Tremors": 5,
+            "Loss of Balance": 4,
+            "Weakness": 3
+
+        }
+    },
+
+
+    "Epilepsy": {
+
+        "Category": "Neurological",
+
+        "Severity": "High",
+
+        "Specialist": "Neurologist",
+
+        "Symptoms": [
+            "Dizziness",
+            "Loss of Consciousness",
+            "Tremors"
+        ],
+
+        "Weights": {
+
+            "Dizziness": 3,
+            "Loss of Consciousness": 5,
+            "Tremors": 4
+
+        }
+    },
+
+
+    "Obesity": {
+
+        "Category": "Metabolic",
+
+        "Severity": "Medium",
+
+        "Specialist": "Endocrinologist",
+
+        "Symptoms": [
+            "Weight Gain",
+            "Fatigue"
+        ],
+
+        "Weights": {
+
+            "Weight Gain": 5,
+            "Fatigue": 3
+
+        }
+    }
+}

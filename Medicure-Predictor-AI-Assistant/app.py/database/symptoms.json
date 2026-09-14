@@ -1,0 +1,94 @@
+{
+    "General": [
+        "Fever",
+        "High Fever",
+        "Chills",
+        "Weakness",
+        "Fatigue",
+        "Body Pain",
+        "Headache",
+        "Dizziness"
+    ],
+
+    "Respiratory": [
+        "Cough",
+        "Dry Cough",
+        "Wet Cough",
+        "Runny Nose",
+        "Sneezing",
+        "Sore Throat",
+        "Chest Pain",
+        "Difficulty Breathing"
+    ],
+
+    "Digestive": [
+        "Vomiting",
+        "Nausea",
+        "Diarrhea",
+        "Constipation",
+        "Stomach Pain",
+        "Abdominal Pain",
+        "Loss of Appetite"
+    ],
+
+    "Skin": [
+        "Skin Rash",
+        "Itching",
+        "Blisters",
+        "Swelling",
+        "Dry Skin"
+    ],
+
+    "Eye": [
+        "Red Eyes",
+        "Watery Eyes",
+        "Blurred Vision",
+        "Eye Pain"
+    ],
+
+    "Ear": [
+        "Ear Pain",
+        "Hearing Loss"
+    ],
+
+    "Heart": [
+        "High Blood Pressure",
+        "Low Blood Pressure",
+        "Rapid Heartbeat",
+        "Chest Tightness"
+    ],
+
+    "Bone and Joint": [
+        "Joint Pain",
+        "Swollen Joints",
+        "Back Pain",
+        "Muscle Pain"
+    ],
+
+    "Urinary": [
+        "Burning Urination",
+        "Frequent Urination",
+        "Blood in Urine"
+    ],
+
+    "Endocrine": [
+        "Excessive Thirst",
+        "Weight Loss",
+        "Weight Gain",
+        "High Blood Sugar"
+    ],
+
+    "Neurological": [
+        "Severe Headache",
+        "Memory Problems",
+        "Tremors",
+        "Loss of Balance"
+    ],
+
+    "Mental Health": [
+        "Anxiety",
+        "Depression",
+        "Difficulty Sleeping",
+        "Stress"
+    ]
+}

@@ -1,0 +1,2602 @@
+{
+    "Common Cold": {
+
+        "Description":
+        "A common viral infection affecting the nose and throat.",
+
+        "Causes":
+        [
+            "Virus infection",
+            "Contact with infected person",
+            "Weak immunity"
+        ],
+
+        "Prevention":
+        [
+            "Wash hands regularly",
+            "Avoid close contact with infected people",
+            "Maintain hygiene"
+        ],
+
+        "Care":
+        [
+            "Take adequate rest",
+            "Drink warm fluids",
+            "Stay hydrated"
+        ],
+
+        "Warning Signs":
+        [
+            "High fever",
+            "Breathing difficulty",
+            "Symptoms lasting many days"
+        ]
+    },
+
+
+    "Influenza (Flu)": {
+
+        "Description":
+        "Influenza is a viral respiratory infection that affects the lungs and breathing system.",
+
+        "Causes":
+        [
+            "Influenza virus",
+            "Airborne droplets",
+            "Direct contact"
+        ],
+
+        "Prevention":
+        [
+            "Vaccination",
+            "Hand hygiene",
+            "Avoid crowded places during outbreaks"
+        ],
+
+        "Care":
+        [
+            "Rest",
+            "Drink fluids",
+            "Monitor fever"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe breathing difficulty",
+            "Chest pain",
+            "Very high fever"
+        ]
+    },
+
+
+    "Diabetes": {
+
+        "Description":
+        "A metabolic disorder where blood glucose levels remain higher than normal.",
+
+        "Causes":
+        [
+            "Insulin problems",
+            "Genetic factors",
+            "Lifestyle factors"
+        ],
+
+        "Prevention":
+        [
+            "Regular exercise",
+            "Balanced diet",
+            "Maintain healthy weight"
+        ],
+
+        "Care":
+        [
+            "Monitor blood sugar",
+            "Follow doctor's advice",
+            "Healthy eating"
+        ],
+
+        "Warning Signs":
+        [
+            "Extreme thirst",
+            "Frequent urination",
+            "Sudden weight loss"
+        ]
+    },
+
+
+    "Asthma": {
+
+        "Description":
+        "A chronic respiratory condition causing difficulty in breathing due to airway narrowing.",
+
+        "Causes":
+        [
+            "Allergens",
+            "Pollution",
+            "Family history"
+        ],
+
+        "Prevention":
+        [
+            "Avoid triggers",
+            "Maintain clean environment",
+            "Follow medical plan"
+        ],
+
+        "Care":
+        [
+            "Use prescribed inhalers",
+            "Avoid smoke",
+            "Monitor symptoms"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe breathing difficulty",
+            "Blue lips",
+            "Chest tightness"
+        ]
+    },
+
+
+    "Migraine": {
+
+        "Description":
+        "A neurological condition causing severe recurring headaches.",
+
+        "Causes":
+        [
+            "Stress",
+            "Sleep problems",
+            "Certain foods"
+        ],
+
+        "Prevention":
+        [
+            "Maintain sleep schedule",
+            "Reduce stress",
+            "Stay hydrated"
+        ],
+
+        "Care":
+        [
+            "Rest in quiet place",
+            "Avoid bright light",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Sudden severe headache",
+            "Vision problems",
+            "Weakness"
+        ]
+    },
+    
+    
+    "COVID-19": {
+
+        "Description":
+        "A viral infection caused by the SARS-CoV-2 virus that can affect the respiratory system.",
+
+        "Causes":
+        [
+            "SARS-CoV-2 infection",
+            "Respiratory droplets and aerosols",
+            "Close contact with an infected person"
+        ],
+
+        "Prevention":
+        [
+            "Stay up to date with recommended vaccination",
+            "Improve ventilation",
+            "Wash hands regularly"
+        ],
+
+        "Care":
+        [
+            "Rest adequately",
+            "Stay hydrated",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe breathing difficulty",
+            "Chest pain or pressure",
+            "Confusion or unusual difficulty staying awake"
+        ]
+    },
+
+
+    "Pneumonia": {
+
+        "Description":
+        "An infection of the lungs that can cause inflammation and difficulty breathing.",
+
+        "Causes":
+        [
+            "Bacteria or viruses",
+            "Fungal infection in some cases",
+            "Aspiration of material into the lungs"
+        ],
+
+        "Prevention":
+        [
+            "Hand hygiene",
+            "Recommended vaccinations",
+            "Avoid smoking and secondhand smoke"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Take prescribed medicines as directed",
+            "Monitor symptoms"
+        ],
+
+        "Warning Signs":
+        [
+            "Difficulty breathing",
+            "Persistent chest pain",
+            "Blue or gray lips or face"
+        ]
+    },
+
+
+    "Hypertension": {
+
+        "Description":
+        "A condition in which blood pressure remains higher than the healthy range over time.",
+
+        "Causes":
+        [
+            "Genetic factors",
+            "High-sodium diet and lifestyle factors",
+            "Certain medical conditions or medicines"
+        ],
+
+        "Prevention":
+        [
+            "Regular physical activity",
+            "Balanced diet with appropriate sodium intake",
+            "Regular blood-pressure checks"
+        ],
+
+        "Care":
+        [
+            "Take prescribed treatment as directed",
+            "Monitor blood pressure",
+            "Attend medical follow-ups"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe headache with other concerning symptoms",
+            "Chest pain",
+            "Severe shortness of breath"
+        ]
+    },
+
+
+    "Food Poisoning": {
+
+        "Description":
+        "Illness caused by consuming food or drinks contaminated with harmful organisms or toxins.",
+
+        "Causes":
+        [
+            "Bacteria or viruses",
+            "Contaminated food or water",
+            "Improper food handling"
+        ],
+
+        "Prevention":
+        [
+            "Wash hands and food-preparation surfaces",
+            "Cook food thoroughly",
+            "Keep food refrigerated safely"
+        ],
+
+        "Care":
+        [
+            "Drink fluids regularly",
+            "Rest",
+            "Seek medical advice when symptoms are severe or persistent"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe dehydration",
+            "Blood in stool or vomit",
+            "Persistent vomiting or severe abdominal pain"
+        ]
+    },
+
+
+    "Gastritis": {
+
+        "Description":
+        "Inflammation of the lining of the stomach.",
+
+        "Causes":
+        [
+            "H. pylori infection",
+            "Certain medicines",
+            "Excess alcohol or other stomach irritants"
+        ],
+
+        "Prevention":
+        [
+            "Use medicines only as directed",
+            "Avoid known stomach irritants",
+            "Discuss recurring symptoms with a clinician"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Eat regular balanced meals",
+            "Stay hydrated"
+        ],
+
+        "Warning Signs":
+        [
+            "Vomiting blood",
+            "Black or tarry stools",
+            "Severe or persistent abdominal pain"
+        ]
+    },
+
+
+    "Skin Allergy": {
+
+        "Description":
+        "An allergic reaction involving the skin, often causing itching or a rash.",
+
+        "Causes":
+        [
+            "Allergens",
+            "Skin contact with irritants",
+            "Individual sensitivity"
+        ],
+
+        "Prevention":
+        [
+            "Avoid known triggers",
+            "Use gentle skin products",
+            "Maintain skin hygiene"
+        ],
+
+        "Care":
+        [
+            "Avoid suspected triggers",
+            "Keep skin moisturized",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Rapid swelling",
+            "Breathing difficulty",
+            "Widespread or rapidly worsening reaction"
+        ]
+    },
+
+
+    "Dermatitis": {
+
+        "Description":
+        "Inflammation of the skin that may cause itching, redness, or irritation.",
+
+        "Causes":
+        [
+            "Irritants",
+            "Allergens",
+            "Dry skin or genetic factors"
+        ],
+
+        "Prevention":
+        [
+            "Avoid irritants",
+            "Use gentle cleansers",
+            "Moisturize regularly"
+        ],
+
+        "Care":
+        [
+            "Keep skin moisturized",
+            "Avoid scratching",
+            "Follow prescribed treatment"
+        ],
+
+        "Warning Signs":
+        [
+            "Rapidly spreading rash",
+            "Signs of infection",
+            "Severe swelling"
+        ]
+    },
+
+
+    "Conjunctivitis": {
+
+        "Description":
+        "Inflammation or infection of the conjunctiva, the surface covering part of the eye.",
+
+        "Causes":
+        [
+            "Viruses",
+            "Bacteria",
+            "Allergic reactions"
+        ],
+
+        "Prevention":
+        [
+            "Wash hands regularly",
+            "Avoid sharing towels",
+            "Avoid touching the eyes"
+        ],
+
+        "Care":
+        [
+            "Keep eyes clean",
+            "Use prescribed treatment when needed",
+            "Avoid contact lenses while symptomatic unless advised otherwise"
+        ],
+
+        "Warning Signs":
+        [
+            "Eye pain",
+            "Vision changes",
+            "Marked light sensitivity"
+        ]
+    },
+
+
+    "Ear Infection": {
+
+        "Description":
+        "An infection or inflammation affecting part of the ear.",
+
+        "Causes":
+        [
+            "Viruses or bacteria",
+            "Upper respiratory infections",
+            "Fluid buildup"
+        ],
+
+        "Prevention":
+        [
+            "Hand hygiene",
+            "Avoid smoke exposure",
+            "Keep vaccinations up to date"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Use medicines only as directed",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe ear pain",
+            "Swelling around the ear",
+            "New hearing or balance problems"
+        ]
+    },
+
+
+    "Arthritis": {
+
+        "Description":
+        "A group of conditions that cause joint inflammation, pain, or stiffness.",
+
+        "Causes":
+        [
+            "Autoimmune processes",
+            "Joint wear and tear",
+            "Previous injury or other factors"
+        ],
+
+        "Prevention":
+        [
+            "Stay physically active",
+            "Maintain healthy habits",
+            "Protect joints from injury"
+        ],
+
+        "Care":
+        [
+            "Regular gentle activity",
+            "Follow medical treatment plans",
+            "Use rest and activity appropriately"
+        ],
+
+        "Warning Signs":
+        [
+            "Sudden severe joint swelling",
+            "Fever with a hot swollen joint",
+            "Rapid loss of joint function"
+        ]
+    },
+
+
+    "Urinary Tract Infection": {
+
+        "Description":
+        "An infection affecting part of the urinary system.",
+
+        "Causes":
+        [
+            "Bacteria entering the urinary tract",
+            "Urinary retention or other risk factors",
+            "Certain medical conditions"
+        ],
+
+        "Prevention":
+        [
+            "Stay adequately hydrated",
+            "Practice good hygiene",
+            "Seek care for recurring symptoms"
+        ],
+
+        "Care":
+        [
+            "Drink fluids",
+            "Follow prescribed treatment",
+            "Monitor symptoms"
+        ],
+
+        "Warning Signs":
+        [
+            "Fever with back or side pain",
+            "Vomiting",
+            "Severe or worsening symptoms"
+        ]
+    },
+
+
+    "Anxiety Disorder": {
+
+        "Description":
+        "A group of mental health conditions involving excessive or persistent anxiety that can interfere with daily life.",
+
+        "Causes":
+        [
+            "Genetic and biological factors",
+            "Stressful experiences",
+            "Other health or environmental factors"
+        ],
+
+        "Prevention":
+        [
+            "Regular sleep routine",
+            "Physical activity",
+            "Healthy coping and support"
+        ],
+
+        "Care":
+        [
+            "Talk with a trusted adult or mental-health professional",
+            "Use healthy stress-management strategies",
+            "Follow a care plan if provided"
+        ],
+
+        "Warning Signs":
+        [
+            "Symptoms severely interfering with daily activities",
+            "Severe panic or distress",
+            "Thoughts of self-harm or suicide"
+        ]
+    },
+
+
+    "Depression": {
+
+        "Description":
+        "A mental health condition involving persistent low mood or loss of interest that can affect daily functioning.",
+
+        "Causes":
+        [
+            "Biological factors",
+            "Life stressors",
+            "Family history and other factors"
+        ],
+
+        "Prevention":
+        [
+            "Regular sleep and activity",
+            "Social support",
+            "Seek help early when symptoms persist"
+        ],
+
+        "Care":
+        [
+            "Talk to a trusted adult or mental-health professional",
+            "Maintain regular routines",
+            "Follow a professional care plan"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe worsening of symptoms",
+            "Unable to manage normal daily activities",
+            "Thoughts of self-harm or suicide"
+        ]
+    },
+
+
+    "Thyroid Disorder": {
+
+        "Description":
+        "A condition in which the thyroid gland produces too much or too little thyroid hormone.",
+
+        "Causes":
+        [
+            "Autoimmune conditions",
+            "Thyroid inflammation or nodules",
+            "Certain medicines or other medical factors"
+        ],
+
+        "Prevention":
+        [
+            "Regular medical checkups when indicated",
+            "Use iodine appropriately",
+            "Take medicines only as prescribed"
+        ],
+
+        "Care":
+        [
+            "Follow thyroid testing and treatment plans",
+            "Take prescribed medicine as directed",
+            "Attend follow-up appointments"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe weakness or confusion",
+            "Rapid or irregular heartbeat",
+            "Significant breathing difficulty"
+        ]
+    },
+
+
+    "Anemia": {
+
+        "Description":
+        "A condition in which the blood does not carry enough oxygen because of reduced red blood cells or hemoglobin.",
+
+        "Causes":
+        [
+            "Iron or vitamin deficiency",
+            "Blood loss",
+            "Chronic diseases or inherited conditions"
+        ],
+
+        "Prevention":
+        [
+            "Balanced nutrient-rich diet",
+            "Treat underlying causes",
+            "Regular checkups when at risk"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Eat a balanced diet",
+            "Take supplements only when recommended"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe shortness of breath",
+            "Chest pain",
+            "Fainting or severe weakness"
+        ]
+    },
+
+
+    "Dengue": {
+
+        "Description":
+        "A viral illness transmitted mainly by infected mosquitoes.",
+
+        "Causes":
+        [
+            "Dengue virus",
+            "Bites from infected Aedes mosquitoes"
+        ],
+
+        "Prevention":
+        [
+            "Prevent mosquito bites",
+            "Remove standing water",
+            "Use appropriate mosquito protection"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Monitor symptoms",
+            "Seek medical advice as needed"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe abdominal pain",
+            "Persistent vomiting",
+            "Bleeding or unusual drowsiness"
+        ]
+    },
+
+
+    "Malaria": {
+
+        "Description":
+        "A serious mosquito-borne disease caused by Plasmodium parasites.",
+
+        "Causes":
+        [
+            "Plasmodium parasites",
+            "Bites from infected Anopheles mosquitoes"
+        ],
+
+        "Prevention":
+        [
+            "Use mosquito protection",
+            "Prevent mosquito bites",
+            "Use recommended malaria prevention when traveling to risk areas"
+        ],
+
+        "Care":
+        [
+            "Prompt medical evaluation",
+            "Take prescribed antimalarial treatment",
+            "Maintain hydration"
+        ],
+
+        "Warning Signs":
+        [
+            "High fever with confusion",
+            "Difficulty breathing",
+            "Severe weakness or seizures"
+        ]
+    },
+
+
+    "Chickenpox": {
+
+        "Description":
+        "A contagious viral infection commonly causing an itchy blister-like rash and fever.",
+
+        "Causes":
+        [
+            "Varicella-zoster virus",
+            "Airborne droplets and close contact"
+        ],
+
+        "Prevention":
+        [
+            "Recommended vaccination",
+            "Avoid close contact with infected people"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Avoid scratching",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Breathing difficulty",
+            "Severe dehydration",
+            "Confusion or rapidly worsening illness"
+        ]
+    },
+
+
+    "Tuberculosis": {
+
+        "Description":
+        "An infectious disease caused by Mycobacterium tuberculosis, most often affecting the lungs.",
+
+        "Causes":
+        [
+            "Mycobacterium tuberculosis",
+            "Airborne spread from an infectious person"
+        ],
+
+        "Prevention":
+        [
+            "Early diagnosis and treatment",
+            "Good ventilation",
+            "Recommended vaccination where appropriate"
+        ],
+
+        "Care":
+        [
+            "Complete prescribed treatment",
+            "Attend follow-up appointments",
+            "Follow infection-control advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Coughing blood",
+            "Severe breathing difficulty",
+            "Rapidly worsening condition"
+        ]
+    },
+
+
+    "Heart Disease": {
+
+        "Description":
+        "A broad term for conditions affecting the heart or its blood vessels.",
+
+        "Causes":
+        [
+            "High blood pressure",
+            "High cholesterol",
+            "Smoking and other risk factors"
+        ],
+
+        "Prevention":
+        [
+            "Regular physical activity",
+            "Balanced diet",
+            "Avoid tobacco exposure"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Take prescribed medicines correctly",
+            "Attend checkups"
+        ],
+
+        "Warning Signs":
+        [
+            "Chest pain or pressure",
+            "Severe shortness of breath",
+            "Fainting"
+        ]
+    },
+
+
+    "Bronchitis": {
+
+        "Description":
+        "Inflammation of the bronchial tubes that can cause cough and breathing discomfort.",
+
+        "Causes":
+        [
+            "Viral infections",
+            "Smoke exposure",
+            "Air pollutants"
+        ],
+
+        "Prevention":
+        [
+            "Avoid smoking and secondhand smoke",
+            "Hand hygiene",
+            "Reduce exposure to respiratory infections"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Avoid smoke",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Difficulty breathing",
+            "Chest pain",
+            "Coughing blood"
+        ]
+    },
+
+
+    "Sinusitis": {
+
+        "Description":
+        "Inflammation of the sinuses that may cause facial pressure, congestion, and nasal symptoms.",
+
+        "Causes":
+        [
+            "Viral infections",
+            "Bacterial infection in some cases",
+            "Allergies"
+        ],
+
+        "Prevention":
+        [
+            "Hand hygiene",
+            "Manage allergies",
+            "Avoid smoke and irritants"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Saline nasal care when appropriate",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Swelling around the eyes",
+            "Severe headache",
+            "Vision changes"
+        ]
+    },
+
+
+    "Food Allergy": {
+
+        "Description":
+        "An immune reaction to a particular food that can range from mild to severe.",
+
+        "Causes":
+        [
+            "Immune reaction to specific food proteins",
+            "Family or personal allergy history"
+        ],
+
+        "Prevention":
+        [
+            "Avoid known allergens",
+            "Read food labels",
+            "Follow an allergy action plan"
+        ],
+
+        "Care":
+        [
+            "Avoid the trigger food",
+            "Follow the prescribed allergy plan",
+            "Seek urgent help for severe reactions"
+        ],
+
+        "Warning Signs":
+        [
+            "Trouble breathing",
+            "Swelling of lips or tongue",
+            "Fainting"
+        ]
+    },
+
+
+    "Kidney Stone": {
+
+        "Description":
+        "A hard deposit that forms in the kidneys and may cause severe pain when passing through the urinary tract.",
+
+        "Causes":
+        [
+            "Concentrated urine",
+            "Dietary and metabolic factors",
+            "Family history"
+        ],
+
+        "Prevention":
+        [
+            "Drink adequate fluids",
+            "Follow dietary advice when indicated",
+            "Address risk factors with a clinician"
+        ],
+
+        "Care":
+        [
+            "Maintain hydration",
+            "Follow medical advice",
+            "Use prescribed treatment"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe pain with fever",
+            "Unable to urinate",
+            "Persistent vomiting"
+        ]
+    },
+
+
+    "Kidney Infection": {
+
+        "Description":
+        "An infection affecting one or both kidneys, often developing from a urinary tract infection.",
+
+        "Causes":
+        [
+            "Bacteria",
+            "Urinary tract infection",
+            "Urinary blockage or other risk factors"
+        ],
+
+        "Prevention":
+        [
+            "Treat urinary infections promptly",
+            "Maintain good hydration",
+            "Follow hygiene practices"
+        ],
+
+        "Care":
+        [
+            "Seek medical evaluation",
+            "Take prescribed treatment",
+            "Maintain hydration"
+        ],
+
+        "Warning Signs":
+        [
+            "High fever",
+            "Back or side pain",
+            "Vomiting or confusion"
+        ]
+    },
+
+
+    "Liver Disease": {
+
+        "Description":
+        "A broad term for conditions that affect the structure or function of the liver.",
+
+        "Causes":
+        [
+            "Viral infections",
+            "Metabolic conditions",
+            "Certain medicines, toxins, or inherited disorders"
+        ],
+
+        "Prevention":
+        [
+            "Avoid harmful exposures",
+            "Vaccination where recommended",
+            "Maintain healthy habits"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Take medicines only as directed",
+            "Attend monitoring appointments"
+        ],
+
+        "Warning Signs":
+        [
+            "Yellowing of skin or eyes",
+            "Confusion",
+            "Severe abdominal swelling or pain"
+        ]
+    },
+
+
+    "Hepatitis": {
+
+        "Description":
+        "Inflammation of the liver caused by infections, immune conditions, or other factors.",
+
+        "Causes":
+        [
+            "Hepatitis viruses",
+            "Alcohol or certain medicines",
+            "Autoimmune or metabolic conditions"
+        ],
+
+        "Prevention":
+        [
+            "Vaccination for preventable forms",
+            "Safe hygiene and food practices",
+            "Avoid sharing contaminated personal items"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Rest and hydrate as advised",
+            "Complete prescribed treatment"
+        ],
+
+        "Warning Signs":
+        [
+            "Yellowing of skin or eyes",
+            "Severe abdominal pain",
+            "Confusion"
+        ]
+    },
+
+
+    "Eye Infection": {
+
+        "Description":
+        "An infection affecting part of the eye or surrounding tissues.",
+
+        "Causes":
+        [
+            "Viruses",
+            "Bacteria",
+            "Fungi or other organisms"
+        ],
+
+        "Prevention":
+        [
+            "Hand hygiene",
+            "Avoid sharing towels or eye products",
+            "Avoid touching eyes"
+        ],
+
+        "Care":
+        [
+            "Keep the area clean",
+            "Follow prescribed treatment",
+            "Avoid contact lenses when advised"
+        ],
+
+        "Warning Signs":
+        [
+            "Eye pain",
+            "Vision loss or changes",
+            "Severe swelling"
+        ]
+    },
+
+
+    "Glaucoma": {
+
+        "Description":
+        "A group of eye conditions that can damage the optic nerve, often associated with increased eye pressure.",
+
+        "Causes":
+        [
+            "Increased eye pressure",
+            "Age and genetic factors",
+            "Other eye or medical conditions"
+        ],
+
+        "Prevention":
+        [
+            "Regular eye examinations",
+            "Manage medical risk factors",
+            "Use prescribed eye treatment"
+        ],
+
+        "Care":
+        [
+            "Use prescribed medicines consistently",
+            "Attend eye appointments",
+            "Follow specialist advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Sudden severe eye pain",
+            "Blurred vision",
+            "Halos around lights with nausea"
+        ]
+    },
+
+
+    "Alzheimer Disease": {
+
+        "Description":
+        "A health condition involving the alzheimer disease.",
+
+        "Causes":
+        [
+            "Various biological, environmental, or lifestyle factors"
+        ],
+
+        "Prevention":
+        [
+            "Maintain healthy general habits",
+            "Follow recommended preventive care",
+            "Seek medical advice when symptoms persist"
+        ],
+
+        "Care":
+        [
+            "Rest and maintain appropriate hydration",
+            "Follow medical advice",
+            "Use prescribed treatment as directed"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe or rapidly worsening symptoms",
+            "Difficulty breathing",
+            "Seek urgent medical care for serious symptoms"
+        ]
+    },
+
+
+    "Parkinson Disease": {
+
+        "Description":
+        "A health condition involving the parkinson disease.",
+
+        "Causes":
+        [
+            "Various biological, environmental, or lifestyle factors"
+        ],
+
+        "Prevention":
+        [
+            "Maintain healthy general habits",
+            "Follow recommended preventive care",
+            "Seek medical advice when symptoms persist"
+        ],
+
+        "Care":
+        [
+            "Rest and maintain appropriate hydration",
+            "Follow medical advice",
+            "Use prescribed treatment as directed"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe or rapidly worsening symptoms",
+            "Difficulty breathing",
+            "Seek urgent medical care for serious symptoms"
+        ]
+    },
+
+
+    "Epilepsy": {
+
+        "Description":
+        "A neurological condition characterized by a tendency to have recurrent seizures.",
+
+        "Causes":
+        [
+            "Genetic factors",
+            "Brain injury or structural changes",
+            "Unknown causes in some people"
+        ],
+
+        "Prevention":
+        [
+            "Take prescribed medicines consistently",
+            "Follow medical advice",
+            "Use appropriate safety precautions"
+        ],
+
+        "Care":
+        [
+            "Follow the treatment plan",
+            "Maintain regular sleep",
+            "Attend medical follow-ups"
+        ],
+
+        "Warning Signs":
+        [
+            "A seizure lasting unusually long",
+            "Repeated seizures without recovery",
+            "Breathing difficulty after a seizure"
+        ]
+    },
+
+
+    "Obesity": {
+
+        "Description":
+        "A health condition involving excess body fat that may increase the risk of other health problems.",
+
+        "Causes":
+        [
+            "Genetic and biological factors",
+            "Environment and lifestyle factors",
+            "Certain medicines or health conditions"
+        ],
+
+        "Prevention":
+        [
+            "Balanced nutrition",
+            "Regular physical activity",
+            "Adequate sleep and healthy routines"
+        ],
+
+        "Care":
+        [
+            "Focus on healthy habits",
+            "Seek guidance from a healthcare professional",
+            "Avoid extreme diets"
+        ],
+
+        "Warning Signs":
+        [
+            "Breathing difficulty",
+            "Chest pain",
+            "Rapidly worsening health symptoms"
+        ]
+    },
+
+
+    "Typhoid": {
+
+        "Description":
+        "A bacterial infection caused by Salmonella Typhi, commonly spread through contaminated food or water.",
+
+        "Causes":
+        [
+            "Salmonella Typhi",
+            "Contaminated food or water"
+        ],
+
+        "Prevention":
+        [
+            "Safe drinking water",
+            "Hand hygiene",
+            "Recommended vaccination when appropriate"
+        ],
+
+        "Care":
+        [
+            "Follow prescribed antibiotics",
+            "Maintain hydration",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Persistent high fever",
+            "Severe abdominal pain",
+            "Confusion or marked weakness"
+        ]
+    },
+
+
+    "Measles": {
+
+        "Description":
+        "A highly contagious viral infection that can cause fever and a widespread rash.",
+
+        "Causes":
+        [
+            "Measles virus",
+            "Airborne spread and respiratory droplets"
+        ],
+
+        "Prevention":
+        [
+            "MMR vaccination",
+            "Avoid close contact during infection"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Monitor symptoms",
+            "Seek medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Difficulty breathing",
+            "Severe dehydration",
+            "Confusion"
+        ]
+    },
+
+
+    "Mumps": {
+
+        "Description":
+        "A contagious viral infection that commonly causes swelling of the salivary glands.",
+
+        "Causes":
+        [
+            "Mumps virus",
+            "Respiratory droplets and close contact"
+        ],
+
+        "Prevention":
+        [
+            "MMR vaccination",
+            "Hand hygiene",
+            "Avoid close contact with infected people"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Follow medical advice",
+            "Avoid close contact while contagious"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe headache",
+            "Neck stiffness",
+            "Severe abdominal or testicular pain"
+        ]
+    },
+
+
+    "Bronchial Asthma": {
+
+        "Description":
+        "A chronic condition in which the airways become inflamed and narrowed, causing breathing symptoms.",
+
+        "Causes":
+        [
+            "Allergens",
+            "Exercise or cold air",
+            "Smoke and air pollution"
+        ],
+
+        "Prevention":
+        [
+            "Avoid known triggers",
+            "Reduce smoke exposure",
+            "Follow an asthma action plan"
+        ],
+
+        "Care":
+        [
+            "Use prescribed inhalers",
+            "Monitor symptoms",
+            "Follow the medical plan"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe breathing difficulty",
+            "Blue or gray lips",
+            "Difficulty speaking because of breathlessness"
+        ]
+    },
+
+
+    "COPD": {
+
+        "Description":
+        "A chronic lung disease that causes persistent airflow limitation and breathing difficulty.",
+
+        "Causes":
+        [
+            "Long-term tobacco smoke exposure",
+            "Air pollution",
+            "Certain occupational or genetic factors"
+        ],
+
+        "Prevention":
+        [
+            "Avoid tobacco smoke",
+            "Reduce harmful air exposure",
+            "Vaccinations and medical follow-up"
+        ],
+
+        "Care":
+        [
+            "Use prescribed medicines",
+            "Follow pulmonary care advice",
+            "Stay physically active as appropriate"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe breathing difficulty",
+            "Blue or gray lips",
+            "Confusion"
+        ]
+    },
+
+
+    "Sleep Apnea": {
+
+        "Description":
+        "A sleep disorder in which breathing repeatedly stops or becomes restricted during sleep.",
+
+        "Causes":
+        [
+            "Airway narrowing",
+            "Certain anatomical factors",
+            "Other medical or lifestyle factors"
+        ],
+
+        "Prevention":
+        [
+            "Maintain healthy sleep habits",
+            "Discuss risk factors with a clinician",
+            "Avoid smoking"
+        ],
+
+        "Care":
+        [
+            "Follow prescribed treatment",
+            "Maintain regular sleep",
+            "Attend follow-up appointments"
+        ],
+
+        "Warning Signs":
+        [
+            "Breathing pauses with severe daytime sleepiness",
+            "Morning headaches with other symptoms",
+            "Severe daytime impairment"
+        ]
+    },
+
+
+    "Insomnia": {
+
+        "Description":
+        "A sleep problem involving difficulty falling asleep, staying asleep, or getting restful sleep.",
+
+        "Causes":
+        [
+            "Stress or anxiety",
+            "Irregular sleep schedule",
+            "Certain medicines or health conditions"
+        ],
+
+        "Prevention":
+        [
+            "Keep a consistent sleep schedule",
+            "Limit stimulating activities before bed",
+            "Create a comfortable sleep environment"
+        ],
+
+        "Care":
+        [
+            "Use healthy sleep routines",
+            "Address underlying causes",
+            "Seek professional advice if persistent"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe daytime impairment",
+            "Persistent worsening sleep problems",
+            "Symptoms suggesting another health condition"
+        ]
+    },
+
+
+    "Panic Disorder": {
+
+        "Description":
+        "A mental health condition involving recurrent unexpected panic attacks and ongoing concern or avoidance.",
+
+        "Causes":
+        [
+            "Genetic and biological factors",
+            "Stress",
+            "Previous panic experiences"
+        ],
+
+        "Prevention":
+        [
+            "Healthy sleep and routines",
+            "Stress-management strategies",
+            "Seek help early"
+        ],
+
+        "Care":
+        [
+            "Talk with a mental-health professional",
+            "Use recommended coping techniques",
+            "Follow a treatment plan"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe or persistent distress",
+            "Symptoms interfering with daily life",
+            "Thoughts of self-harm or suicide"
+        ]
+    },
+
+
+    "Osteoporosis": {
+
+        "Description":
+        "A condition in which bones become weaker and more likely to fracture.",
+
+        "Causes":
+        [
+            "Age and hormonal changes",
+            "Low bone density risk factors",
+            "Certain medicines or medical conditions"
+        ],
+
+        "Prevention":
+        [
+            "Adequate calcium and vitamin D",
+            "Weight-bearing activity",
+            "Avoid smoking"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Use prescribed treatment if needed",
+            "Prevent falls"
+        ],
+
+        "Warning Signs":
+        [
+            "Sudden severe back pain",
+            "Fracture after minor injury",
+            "Loss of height or posture changes"
+        ]
+    },
+
+
+    "Gout": {
+
+        "Description":
+        "A form of inflammatory arthritis caused by buildup of uric acid crystals in joints.",
+
+        "Causes":
+        [
+            "High uric acid levels",
+            "Genetic factors",
+            "Certain foods, medicines, or health conditions"
+        ],
+
+        "Prevention":
+        [
+            "Stay hydrated",
+            "Follow dietary advice",
+            "Manage related health conditions"
+        ],
+
+        "Care":
+        [
+            "Follow prescribed treatment",
+            "Rest an affected joint during flares",
+            "Maintain hydration"
+        ],
+
+        "Warning Signs":
+        [
+            "Sudden severe joint pain and swelling",
+            "Fever with a hot swollen joint",
+            "Rapid worsening"
+        ]
+    },
+
+
+    "PCOS": {
+
+        "Description":
+        "A hormonal condition associated with irregular periods, androgen-related symptoms, and changes in ovarian function.",
+
+        "Causes":
+        [
+            "Hormonal and metabolic factors",
+            "Genetic factors",
+            "Insulin resistance in some people"
+        ],
+
+        "Prevention":
+        [
+            "Healthy balanced habits",
+            "Regular medical checkups",
+            "Discuss menstrual irregularities with a clinician"
+        ],
+
+        "Care":
+        [
+            "Follow individualized medical advice",
+            "Maintain regular activity and balanced nutrition",
+            "Monitor symptoms"
+        ],
+
+        "Warning Signs":
+        [
+            "Very heavy bleeding",
+            "Severe abdominal pain",
+            "Rapidly worsening symptoms"
+        ]
+    },
+
+
+    "Urinary Infection": {
+
+        "Description":
+        "A health condition involving the urinary infection.",
+
+        "Causes":
+        [
+            "Various biological, environmental, or lifestyle factors"
+        ],
+
+        "Prevention":
+        [
+            "Maintain healthy general habits",
+            "Follow recommended preventive care",
+            "Seek medical advice when symptoms persist"
+        ],
+
+        "Care":
+        [
+            "Rest and maintain appropriate hydration",
+            "Follow medical advice",
+            "Use prescribed treatment as directed"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe or rapidly worsening symptoms",
+            "Difficulty breathing",
+            "Seek urgent medical care for serious symptoms"
+        ]
+    },
+
+
+    "Kidney Failure": {
+
+        "Description":
+        "A serious condition in which the kidneys can no longer adequately perform their normal functions.",
+
+        "Causes":
+        [
+            "Diabetes and high blood pressure",
+            "Kidney disease",
+            "Severe injury or other medical conditions"
+        ],
+
+        "Prevention":
+        [
+            "Manage blood pressure and other risks",
+            "Avoid unnecessary kidney-harming medicines",
+            "Attend medical checkups when at risk"
+        ],
+
+        "Care":
+        [
+            "Follow specialist care",
+            "Take prescribed treatment",
+            "Follow fluid and diet guidance when given"
+        ],
+
+        "Warning Signs":
+        [
+            "Very little or no urine",
+            "Severe swelling or breathing difficulty",
+            "Confusion"
+        ]
+    },
+
+
+    "Appendicitis": {
+
+        "Description":
+        "Inflammation of the appendix that can cause worsening abdominal pain and requires prompt medical evaluation.",
+
+        "Causes":
+        [
+            "Blockage of the appendix",
+            "Infection or inflammation"
+        ],
+
+        "Prevention":
+        [
+            "There is no reliable way to prevent all cases",
+            "Seek evaluation for worsening abdominal pain"
+        ],
+
+        "Care":
+        [
+            "Seek prompt medical care",
+            "Follow treatment instructions",
+            "Avoid delaying evaluation"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe or worsening abdominal pain",
+            "Fever with abdominal pain",
+            "Persistent vomiting"
+        ]
+    },
+
+
+    "Irritable Bowel Syndrome": {
+
+        "Description":
+        "A digestive disorder causing recurring abdominal pain with changes in bowel habits.",
+
+        "Causes":
+        [
+            "Altered gut-brain interaction",
+            "Food triggers",
+            "Stress and other factors"
+        ],
+
+        "Prevention":
+        [
+            "Identify individual triggers",
+            "Regular meals and routines",
+            "Manage stress"
+        ],
+
+        "Care":
+        [
+            "Keep a symptom and food record",
+            "Follow dietary advice",
+            "Seek medical advice for persistent symptoms"
+        ],
+
+        "Warning Signs":
+        [
+            "Blood in stool",
+            "Unexplained weight loss",
+            "Severe or worsening abdominal pain"
+        ]
+    },
+
+
+    "Migraine Chronic": {
+
+        "Description":
+        "A neurological disorder involving frequent recurring migraine headaches and associated symptoms.",
+
+        "Causes":
+        [
+            "Genetic factors",
+            "Stress and sleep changes",
+            "Individual triggers"
+        ],
+
+        "Prevention":
+        [
+            "Regular sleep",
+            "Stay hydrated",
+            "Identify and manage personal triggers"
+        ],
+
+        "Care":
+        [
+            "Rest in a quiet place",
+            "Follow the prescribed treatment plan",
+            "Avoid known triggers"
+        ],
+
+        "Warning Signs":
+        [
+            "Sudden severe headache",
+            "New weakness or vision changes",
+            "Headache with confusion or fainting"
+        ]
+    },
+
+
+    "Skin Infection": {
+
+        "Description":
+        "An infection affecting the skin or tissues beneath it.",
+
+        "Causes":
+        [
+            "Bacteria",
+            "Viruses or fungi",
+            "Breaks in the skin"
+        ],
+
+        "Prevention":
+        [
+            "Clean wounds properly",
+            "Hand hygiene",
+            "Avoid sharing personal items"
+        ],
+
+        "Care":
+        [
+            "Keep affected skin clean",
+            "Follow prescribed treatment",
+            "Monitor for spreading symptoms"
+        ],
+
+        "Warning Signs":
+        [
+            "Rapidly spreading redness or swelling",
+            "Fever",
+            "Severe pain"
+        ]
+    },
+
+
+    "Eczema": {
+        "Description":
+        "A group of conditions causing dry, itchy, and inflamed skin.",
+
+        "Causes":
+        [
+            "Skin-barrier differences",
+            "Allergens or irritants",
+            "Genetic factors"
+        ],
+
+        "Prevention":
+        [
+            "Moisturize regularly",
+            "Avoid known irritants",
+            "Use gentle skin products"
+        ],
+
+        "Care":
+        [
+            "Keep skin moisturized",
+            "Avoid scratching",
+            "Follow medical advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Widespread or severe rash",
+            "Signs of infection",
+            "Rapid swelling"
+        ]
+    },
+
+
+    "Psoriasis": {
+
+        "Description":
+        "A chronic inflammatory skin condition that can cause thick, scaly patches.",
+
+        "Causes":
+        [
+            "Immune-system activity",
+            "Genetic factors",
+            "Certain triggers"
+        ],
+
+        "Prevention":
+        [
+            "Avoid known triggers",
+            "Protect skin",
+            "Follow medical care"
+        ],
+
+        "Care":
+        [
+            "Moisturize skin",
+            "Follow prescribed treatment",
+            "Attend follow-ups"
+        ],
+
+        "Warning Signs":
+        [
+            "Rapidly widespread rash",
+            "Severe joint swelling",
+            "Fever with extensive skin changes"
+        ]
+    },
+
+
+    "Gallstones": {
+
+        "Description":
+        "Hardened deposits that can form in the gallbladder.",
+
+        "Causes":
+        [
+            "Changes in bile composition",
+            "Certain metabolic factors",
+            "Family and other risk factors"
+        ],
+
+        "Prevention":
+        [
+            "Maintain balanced nutrition",
+            "Avoid extreme dieting",
+            "Manage relevant health conditions"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Use prescribed treatment",
+            "Monitor recurring symptoms"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe upper abdominal pain",
+            "Fever with abdominal pain",
+            "Yellowing of skin or eyes"
+        ]
+    },
+
+
+    "GERD": {
+
+        "Description":
+        "A digestive condition in which stomach contents repeatedly flow back into the esophagus.",
+
+        "Causes":
+        [
+            "Weakness of the lower esophageal sphincter",
+            "Certain foods or habits",
+            "Hiatal hernia in some people"
+        ],
+
+        "Prevention":
+        [
+            "Maintain healthy eating habits",
+            "Avoid personal triggers",
+            "Follow medical advice"
+        ],
+
+        "Care":
+        [
+            "Follow recommended meal and sleep habits",
+            "Take prescribed treatment",
+            "Avoid known triggers"
+        ],
+
+        "Warning Signs":
+        [
+            "Difficulty swallowing",
+            "Vomiting blood",
+            "Persistent chest pain"
+        ]
+    },
+
+
+    "Peptic Ulcer": {
+
+        "Description":
+        "An open sore that develops in the lining of the stomach or upper small intestine.",
+
+        "Causes":
+        [
+            "H. pylori infection",
+            "Certain pain-relieving medicines",
+            "Other stomach-irritating factors"
+        ],
+
+        "Prevention":
+        [
+            "Use medicines as directed",
+            "Treat H. pylori when diagnosed",
+            "Avoid smoking"
+        ],
+
+        "Care":
+        [
+            "Follow prescribed treatment",
+            "Avoid unnecessary stomach-irritating medicines",
+            "Attend follow-up care"
+        ],
+
+        "Warning Signs":
+        [
+            "Vomiting blood",
+            "Black stools",
+            "Severe abdominal pain"
+        ]
+    },
+
+
+    "Chronic Kidney Disease": {
+
+        "Description":
+        "Long-term damage or reduced function of the kidneys.",
+
+        "Causes":
+        [
+            "Diabetes",
+            "High blood pressure",
+            "Other kidney or systemic conditions"
+        ],
+
+        "Prevention":
+        [
+            "Manage blood pressure and blood sugar",
+            "Stay appropriately hydrated",
+            "Attend recommended health checks"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Take prescribed medicines",
+            "Follow recommended diet and monitoring"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe swelling",
+            "Major changes in urination",
+            "Breathing difficulty or confusion"
+        ]
+    },
+
+
+    "Pneumothorax": {
+
+        "Description":
+        "A condition in which air enters the space around a lung and can cause the lung to partially or completely collapse.",
+
+        "Causes":
+        [
+            "Chest injury",
+            "Certain lung conditions",
+            "Sometimes occurs without an obvious cause"
+        ],
+
+        "Prevention":
+        [
+            "Avoid smoking",
+            "Manage underlying lung disease",
+            "Follow medical advice after previous episodes"
+        ],
+
+        "Care":
+        [
+            "Seek prompt medical evaluation",
+            "Follow treatment instructions",
+            "Monitor breathing"
+        ],
+
+        "Warning Signs":
+        [
+            "Sudden chest pain",
+            "Sudden shortness of breath",
+            "Fainting or severe breathing difficulty"
+        ]
+    },
+
+
+    "Lung Infection": {
+
+        "Description":
+        "An infection affecting the lungs or lower respiratory tract.",
+
+        "Causes":
+        [
+            "Viruses",
+            "Bacteria",
+            "Fungi in some cases"
+        ],
+
+        "Prevention":
+        [
+            "Hand hygiene",
+            "Recommended vaccinations",
+            "Avoid smoking and smoke exposure"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Follow prescribed treatment",
+            "Monitor breathing"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe breathing difficulty",
+            "Chest pain",
+            "Blue or gray lips"
+        ]
+    },
+
+
+    "Throat Infection": {
+
+        "Description":
+        "An infection or inflammation affecting the throat.",
+
+        "Causes":
+        [
+            "Viruses",
+            "Bacteria",
+            "Close contact with infected people"
+        ],
+
+        "Prevention":
+        [
+            "Hand hygiene",
+            "Avoid sharing utensils",
+            "Avoid close contact during illness"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Follow medical advice",
+            "Use recommended symptom relief"
+        ],
+
+        "Warning Signs":
+        [
+            "Difficulty breathing",
+            "Difficulty swallowing saliva",
+            "Severe swelling"
+        ]
+    },
+
+
+    "Tonsillitis": {
+
+        "Description":
+        "Inflammation or infection of the tonsils, often causing sore throat and difficulty swallowing.",
+
+        "Causes":
+        [
+            "Viruses",
+            "Bacteria",
+            "Close contact with infected people"
+        ],
+
+        "Prevention":
+        [
+            "Hand hygiene",
+            "Avoid sharing utensils",
+            "Avoid close contact with sick people"
+        ],
+
+        "Care":
+        [
+            "Rest and fluids",
+            "Follow medical advice",
+            "Take prescribed treatment when indicated"
+        ],
+
+        "Warning Signs":
+        [
+            "Difficulty breathing",
+            "Unable to swallow fluids",
+            "Severe one-sided throat swelling"
+        ]
+    },
+
+
+    "Bipolar Disorder": {
+
+        "Description":
+        "A mental health condition involving episodes of significant mood changes, including elevated or unusually energized periods and depressive periods.",
+
+        "Causes":
+        [
+            "Genetic factors",
+            "Brain and biological factors",
+            "Stress and environmental factors"
+        ],
+
+        "Prevention":
+        [
+            "Regular sleep routine",
+            "Supportive relationships",
+            "Early professional support for mood changes"
+        ],
+
+        "Care":
+        [
+            "Work with a mental-health professional",
+            "Follow the treatment plan",
+            "Maintain regular routines"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe mood changes disrupting daily life",
+            "Loss of contact with reality",
+            "Thoughts of self-harm or suicide"
+        ]
+    },
+
+
+    "Vitamin Deficiency": {
+
+        "Description":
+        "A condition caused by not having enough of one or more essential vitamins.",
+
+        "Causes":
+        [
+            "Insufficient dietary intake",
+            "Absorption problems",
+            "Certain medical conditions"
+        ],
+
+        "Prevention":
+        [
+            "Balanced varied diet",
+            "Address underlying health conditions",
+            "Use supplements only when recommended"
+        ],
+
+        "Care":
+        [
+            "Follow medical advice",
+            "Eat a varied nutrient-rich diet",
+            "Take recommended supplements as directed"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe weakness",
+            "Fainting",
+            "Rapidly worsening symptoms"
+        ]
+    },
+
+
+    "Eye Strain": {
+
+        "Description":
+        "Eye discomfort or fatigue that can occur after prolonged visual tasks.",
+
+        "Causes":
+        [
+            "Long periods of screen or close work",
+            "Poor lighting",
+            "Uncorrected vision problems"
+        ],
+
+        "Prevention":
+        [
+            "Take regular screen breaks",
+            "Use comfortable lighting",
+            "Have vision checked when needed"
+        ],
+
+        "Care":
+        [
+            "Rest the eyes",
+            "Adjust screen position and lighting",
+            "Follow vision-care advice"
+        ],
+
+        "Warning Signs":
+        [
+            "Persistent vision changes",
+            "Significant eye pain",
+            "Sudden loss of vision"
+        ]
+    },
+
+
+    "Cataract": {
+
+        "Description":
+        "A clouding of the eye's natural lens that can reduce vision.",
+
+        "Causes":
+        [
+            "Age-related changes",
+            "Eye injury",
+            "Certain medical or medication factors"
+        ],
+
+        "Prevention":
+        [
+            "Protect eyes from injury and excessive sunlight",
+            "Manage relevant health conditions",
+            "Regular eye examinations"
+        ],
+
+        "Care":
+        [
+            "Regular eye checks",
+            "Use prescribed vision aids",
+            "Discuss treatment options with an eye professional"
+        ],
+
+        "Warning Signs":
+        [
+            "Sudden vision loss",
+            "Severe eye pain",
+            "Rapidly worsening vision"
+        ]
+    },
+
+
+    "Fungal Infection": {
+
+        "Description":
+        "An infection caused by fungi affecting the skin, nails, or other body areas.",
+
+        "Causes":
+        [
+            "Fungal organisms",
+            "Warm or moist environments",
+            "Close contact or shared items"
+        ],
+
+        "Prevention":
+        [
+            "Keep skin clean and dry",
+            "Avoid sharing personal items",
+            "Wear appropriate footwear in communal areas"
+        ],
+
+        "Care":
+        [
+            "Keep affected areas dry",
+            "Follow prescribed antifungal treatment",
+            "Complete treatment as directed"
+        ],
+
+        "Warning Signs":
+        [
+            "Rapidly spreading infection",
+            "Severe pain or swelling",
+            "Fever or systemic symptoms"
+        ]
+    },
+
+
+    "Dengue Fever": {
+
+        "Description":
+        "A health condition involving the dengue fever.",
+
+        "Causes":
+        [
+            "Various biological, environmental, or lifestyle factors"
+        ],
+
+        "Prevention":
+        [
+            "Maintain healthy general habits",
+            "Follow recommended preventive care",
+            "Seek medical advice when symptoms persist"
+        ],
+
+        "Care":
+        [
+            "Rest and maintain appropriate hydration",
+            "Follow medical advice",
+            "Use prescribed treatment as directed"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe or rapidly worsening symptoms",
+            "Difficulty breathing",
+            "Seek urgent medical care for serious symptoms"
+        ]
+    },
+
+
+    "Malaria Fever": {
+
+        "Description":
+        "A health condition involving the malaria fever.",
+
+        "Causes":
+        [
+            "Various biological, environmental, or lifestyle factors"
+        ],
+
+        "Prevention":
+        [
+            "Maintain healthy general habits",
+            "Follow recommended preventive care",
+            "Seek medical advice when symptoms persist"
+        ],
+
+        "Care":
+        [
+            "Rest and maintain appropriate hydration",
+            "Follow medical advice",
+            "Use prescribed treatment as directed"
+        ],
+
+        "Warning Signs":
+        [
+            "Severe or rapidly worsening symptoms",
+            "Difficulty breathing",
+            "Seek urgent medical care for serious symptoms"
+        ]
+    },
+
+
+    "Common Allergy": {
+
+        "Description":
+        "An immune-system reaction to a normally harmless substance such as pollen, dust, or certain foods.",
+
+        "Causes":
+        [
+            "Pollen or dust",
+            "Animal dander",
+            "Other individual allergens"
+        ],
+
+        "Prevention":
+        [
+            "Identify and reduce exposure to triggers",
+            "Keep living areas clean",
+            "Follow professional allergy advice"
+        ],
+
+        "Care":
+        [
+            "Avoid known triggers",
+            "Use recommended treatments",
+            "Monitor symptoms"
+        ],
+
+        "Warning Signs":
+        [
+            "Difficulty breathing",
+            "Swelling of lips or tongue",
+            "Fainting"
+        ]
+    },
+
+
+    "Heat Stroke": {
+
+        "Description":
+        "A medical emergency in which the body becomes dangerously overheated.",
+
+        "Causes":
+        [
+            "Extreme heat",
+            "Intense activity in hot conditions",
+            "Inadequate cooling or hydration"
+        ],
+
+        "Prevention":
+        [
+            "Stay cool in hot weather",
+            "Drink fluids regularly",
+            "Avoid strenuous activity during extreme heat"
+        ],
+
+        "Care":
+        [
+            "Move to a cool place",
+            "Seek emergency medical care",
+            "Follow first-aid guidance while waiting for help"
+        ],
+
+        "Warning Signs":
+        [
+            "Confusion",
+            "Loss of consciousness",
+            "Very high body temperature"
+        ]
+    },
+
+
+    "Dehydration": {
+
+        "Description":
+        "A condition in which the body loses more fluid than it takes in.",
+
+        "Causes":
+        [
+            "Vomiting or diarrhea",
+            "Heavy sweating",
+            "Not drinking enough fluids"
+        ],
+
+        "Prevention":
+        [
+            "Drink fluids regularly",
+            "Replace fluids during illness or heat",
+            "Monitor hydration during exercise"
+        ],
+
+        "Care":
+        [
+            "Drink appropriate fluids",
+            "Rest and cool down when overheated",
+            "Seek medical advice if severe"
+        ],
+
+        "Warning Signs":
+        [
+            "Very little urine",
+            "Fainting or confusion",
+            "Severe weakness"
+        ]
+    }
+}

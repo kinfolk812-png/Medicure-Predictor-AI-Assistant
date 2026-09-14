@@ -1,0 +1,440 @@
+{
+    "Appendicitis": {
+
+        "Category": "Digestive",
+
+        "Severity": "Emergency",
+
+        "Specialist": "General Surgeon",
+
+        "Symptoms": [
+            "Stomach Pain",
+            "Fever",
+            "Vomiting",
+            "Loss of Appetite"
+        ],
+
+        "Weights": {
+            "Stomach Pain":5,
+            "Fever":3,
+            "Vomiting":4,
+            "Loss of Appetite":3
+        }
+    },
+
+
+    "Gallstones": {
+
+        "Category": "Digestive",
+
+        "Severity": "High",
+
+        "Specialist": "Gastroenterologist",
+
+        "Symptoms":[
+            "Stomach Pain",
+            "Nausea",
+            "Vomiting"
+        ],
+
+        "Weights":{
+            "Stomach Pain":5,
+            "Nausea":3,
+            "Vomiting":4
+        }
+    },
+
+
+    "GERD": {
+
+        "Category":"Digestive",
+
+        "Severity":"Medium",
+
+        "Specialist":"Gastroenterologist",
+
+        "Symptoms":[
+            "Chest Pain",
+            "Nausea",
+            "Sore Throat"
+        ],
+
+        "Weights":{
+            "Chest Pain":4,
+            "Nausea":3,
+            "Sore Throat":4
+        }
+    },
+
+
+    "Peptic Ulcer": {
+
+        "Category":"Digestive",
+
+        "Severity":"High",
+
+        "Specialist":"Gastroenterologist",
+
+        "Symptoms":[
+            "Stomach Pain",
+            "Nausea",
+            "Loss of Appetite"
+        ],
+
+        "Weights":{
+            "Stomach Pain":5,
+            "Nausea":3,
+            "Loss of Appetite":4
+        }
+    },
+
+
+    "Chronic Kidney Disease": {
+
+        "Category":"Kidney",
+
+        "Severity":"High",
+
+        "Specialist":"Nephrologist",
+
+        "Symptoms":[
+            "Fatigue",
+            "Swelling",
+            "Frequent Urination"
+        ],
+
+        "Weights":{
+            "Fatigue":4,
+            "Swelling":5,
+            "Frequent Urination":4
+        }
+    },
+
+
+    "Pneumothorax": {
+
+        "Category":"Respiratory",
+
+        "Severity":"Emergency",
+
+        "Specialist":"Pulmonologist",
+
+        "Symptoms":[
+            "Chest Pain",
+            "Difficulty Breathing"
+        ],
+
+        "Weights":{
+            "Chest Pain":5,
+            "Difficulty Breathing":5
+        }
+    },
+
+
+    "Lung Infection": {
+
+        "Category":"Respiratory",
+
+        "Severity":"High",
+
+        "Specialist":"Pulmonologist",
+
+        "Symptoms":[
+            "Cough",
+            "Fever",
+            "Chest Pain"
+        ],
+
+        "Weights":{
+            "Cough":4,
+            "Fever":3,
+            "Chest Pain":4
+        }
+    },
+
+
+    "Throat Infection": {
+
+        "Category":"ENT",
+
+        "Severity":"Low",
+
+        "Specialist":"ENT Specialist",
+
+        "Symptoms":[
+            "Sore Throat",
+            "Fever",
+            "Difficulty Swallowing"
+        ],
+
+        "Weights":{
+            "Sore Throat":5,
+            "Fever":3,
+            "Difficulty Swallowing":4
+        }
+    },
+
+
+    "Tonsillitis": {
+
+        "Category":"ENT",
+
+        "Severity":"Medium",
+
+        "Specialist":"ENT Specialist",
+
+        "Symptoms":[
+            "Sore Throat",
+            "Fever",
+            "Swelling"
+        ],
+
+        "Weights":{
+            "Sore Throat":5,
+            "Fever":3,
+            "Swelling":4
+        }
+    },
+
+
+    "Anxiety Disorder": {
+
+        "Category":"Mental Health",
+
+        "Severity":"Medium",
+
+        "Specialist":"Psychiatrist",
+
+        "Symptoms":[
+            "Anxiety",
+            "Stress",
+            "Rapid Heartbeat"
+        ],
+
+        "Weights":{
+            "Anxiety":5,
+            "Stress":4,
+            "Rapid Heartbeat":4
+        }
+    },
+
+
+    "Bipolar Disorder": {
+
+        "Category":"Mental Health",
+
+        "Severity":"High",
+
+        "Specialist":"Psychiatrist",
+
+        "Symptoms":[
+            "Stress",
+            "Difficulty Sleeping",
+            "Depression"
+        ],
+
+        "Weights":{
+            "Stress":3,
+            "Difficulty Sleeping":4,
+            "Depression":5
+        }
+    },
+
+
+    "Vitamin Deficiency": {
+
+        "Category":"Nutrition",
+
+        "Severity":"Low",
+
+        "Specialist":"Nutritionist",
+
+        "Symptoms":[
+            "Weakness",
+            "Fatigue",
+            "Dizziness"
+        ],
+
+        "Weights":{
+            "Weakness":4,
+            "Fatigue":5,
+            "Dizziness":3
+        }
+    },
+
+
+    "Eye Strain": {
+
+        "Category":"Eye",
+
+        "Severity":"Low",
+
+        "Specialist":"Ophthalmologist",
+
+        "Symptoms":[
+            "Blurred Vision",
+            "Eye Pain",
+            "Headache"
+        ],
+
+        "Weights":{
+            "Blurred Vision":5,
+            "Eye Pain":3,
+            "Headache":3
+        }
+    },
+
+
+    "Cataract": {
+
+        "Category":"Eye",
+
+        "Severity":"Medium",
+
+        "Specialist":"Ophthalmologist",
+
+        "Symptoms":[
+            "Blurred Vision",
+            "Eye Pain"
+        ],
+
+        "Weights":{
+            "Blurred Vision":5,
+            "Eye Pain":3
+        }
+    },
+
+
+    "Fungal Infection": {
+
+        "Category":"Skin",
+
+        "Severity":"Low",
+
+        "Specialist":"Dermatologist",
+
+        "Symptoms":[
+            "Itching",
+            "Skin Rash",
+            "Dry Skin"
+        ],
+
+        "Weights":{
+            "Itching":5,
+            "Skin Rash":4,
+            "Dry Skin":3
+        }
+    },
+
+
+    "Dengue Fever": {
+
+        "Category":"Infection",
+
+        "Severity":"High",
+
+        "Specialist":"General Physician",
+
+        "Symptoms":[
+            "High Fever",
+            "Body Pain",
+            "Headache",
+            "Weakness"
+        ],
+
+        "Weights":{
+            "High Fever":5,
+            "Body Pain":4,
+            "Headache":3,
+            "Weakness":3
+        }
+    },
+
+
+    "Malaria Fever": {
+
+        "Category":"Infection",
+
+        "Severity":"High",
+
+        "Specialist":"General Physician",
+
+        "Symptoms":[
+            "High Fever",
+            "Chills",
+            "Fatigue"
+        ],
+
+        "Weights":{
+            "High Fever":5,
+            "Chills":5,
+            "Fatigue":3
+        }
+    },
+
+
+    "Common Allergy": {
+
+        "Category":"Allergy",
+
+        "Severity":"Low",
+
+        "Specialist":"Allergist",
+
+        "Symptoms":[
+            "Sneezing",
+            "Runny Nose",
+            "Itching"
+        ],
+
+        "Weights":{
+            "Sneezing":5,
+            "Runny Nose":4,
+            "Itching":3
+        }
+    },
+
+
+    "Heat Stroke": {
+
+        "Category":"Emergency",
+
+        "Severity":"Emergency",
+
+        "Specialist":"Emergency Doctor",
+
+        "Symptoms":[
+            "High Fever",
+            "Dizziness",
+            "Weakness"
+        ],
+
+        "Weights":{
+            "High Fever":5,
+            "Dizziness":3,
+            "Weakness":4
+        }
+    },
+
+
+    "Dehydration": {
+
+        "Category":"General",
+
+        "Severity":"Medium",
+
+        "Specialist":"General Physician",
+
+        "Symptoms":[
+            "Weakness",
+            "Dizziness",
+            "Excessive Thirst"
+        ],
+
+        "Weights":{
+            "Weakness":4,
+            "Dizziness":3,
+            "Excessive Thirst":5
+        }
+    }
+}

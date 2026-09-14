@@ -1,0 +1,450 @@
+{
+    "Typhoid": {
+
+        "Category": "Infection",
+
+        "Severity": "High",
+
+        "Specialist": "General Physician",
+
+        "Symptoms": [
+            "High Fever",
+            "Weakness",
+            "Stomach Pain",
+            "Loss of Appetite"
+        ],
+
+        "Weights": {
+            "High Fever":5,
+            "Weakness":3,
+            "Stomach Pain":4,
+            "Loss of Appetite":4
+        }
+    },
+
+
+    "Measles": {
+
+        "Category":"Viral Infection",
+
+        "Severity":"Medium",
+
+        "Specialist":"General Physician",
+
+        "Symptoms":[
+            "Fever",
+            "Skin Rash",
+            "Cough",
+            "Runny Nose"
+        ],
+
+        "Weights":{
+            "Fever":4,
+            "Skin Rash":5,
+            "Cough":3,
+            "Runny Nose":3
+        }
+    },
+
+
+    "Mumps": {
+
+        "Category":"Viral Infection",
+
+        "Severity":"Medium",
+
+        "Specialist":"ENT Specialist",
+
+        "Symptoms":[
+            "Fever",
+            "Swelling",
+            "Headache",
+            "Fatigue"
+        ],
+
+        "Weights":{
+            "Fever":3,
+            "Swelling":5,
+            "Headache":3,
+            "Fatigue":3
+        }
+    },
+
+
+    "Chickenpox": {
+
+        "Category":"Viral Infection",
+
+        "Severity":"Medium",
+
+        "Specialist":"Dermatologist",
+
+        "Symptoms":[
+            "Fever",
+            "Skin Rash",
+            "Itching",
+            "Blisters"
+        ],
+
+        "Weights":{
+            "Fever":3,
+            "Skin Rash":5,
+            "Itching":4,
+            "Blisters":5
+        }
+    },
+
+
+    "Bronchial Asthma": {
+
+        "Category":"Respiratory",
+
+        "Severity":"High",
+
+        "Specialist":"Pulmonologist",
+
+        "Symptoms":[
+            "Difficulty Breathing",
+            "Chest Tightness",
+            "Cough"
+        ],
+
+        "Weights":{
+            "Difficulty Breathing":5,
+            "Chest Tightness":5,
+            "Cough":3
+        }
+    },
+
+
+    "COPD": {
+
+        "Category":"Respiratory",
+
+        "Severity":"High",
+
+        "Specialist":"Pulmonologist",
+
+        "Symptoms":[
+            "Difficulty Breathing",
+            "Cough",
+            "Chest Pain",
+            "Fatigue"
+        ],
+
+        "Weights":{
+            "Difficulty Breathing":5,
+            "Cough":4,
+            "Chest Pain":3,
+            "Fatigue":3
+        }
+    },
+
+
+    "Sleep Apnea": {
+
+        "Category":"Sleep Disorder",
+
+        "Severity":"Medium",
+
+        "Specialist":"Pulmonologist",
+
+        "Symptoms":[
+            "Difficulty Sleeping",
+            "Fatigue",
+            "Difficulty Breathing"
+        ],
+
+        "Weights":{
+            "Difficulty Sleeping":4,
+            "Fatigue":3,
+            "Difficulty Breathing":4
+        }
+    },
+
+
+    "Insomnia": {
+
+        "Category":"Mental Health",
+
+        "Severity":"Medium",
+
+        "Specialist":"Psychiatrist",
+
+        "Symptoms":[
+            "Difficulty Sleeping",
+            "Stress",
+            "Anxiety"
+        ],
+
+        "Weights":{
+            "Difficulty Sleeping":5,
+            "Stress":3,
+            "Anxiety":4
+        }
+    },
+
+
+    "Panic Disorder": {
+
+        "Category":"Mental Health",
+
+        "Severity":"Medium",
+
+        "Specialist":"Psychiatrist",
+
+        "Symptoms":[
+            "Anxiety",
+            "Rapid Heartbeat",
+            "Dizziness"
+        ],
+
+        "Weights":{
+            "Anxiety":5,
+            "Rapid Heartbeat":4,
+            "Dizziness":3
+        }
+    },
+
+
+    "Osteoporosis": {
+
+        "Category":"Bone Disease",
+
+        "Severity":"Medium",
+
+        "Specialist":"Orthopedic",
+
+        "Symptoms":[
+            "Back Pain",
+            "Bone Pain",
+            "Weakness"
+        ],
+
+        "Weights":{
+            "Back Pain":5,
+            "Bone Pain":5,
+            "Weakness":3
+        }
+    },
+
+
+    "Gout": {
+
+        "Category":"Joint Disease",
+
+        "Severity":"Medium",
+
+        "Specialist":"Rheumatologist",
+
+        "Symptoms":[
+            "Joint Pain",
+            "Swollen Joints",
+            "Redness"
+        ],
+
+        "Weights":{
+            "Joint Pain":5,
+            "Swollen Joints":5,
+            "Redness":4
+        }
+    },
+
+
+    "PCOS": {
+
+        "Category":"Women Health",
+
+        "Severity":"Medium",
+
+        "Specialist":"Gynecologist",
+
+        "Symptoms":[
+            "Weight Gain",
+            "Irregular Periods",
+            "Fatigue"
+        ],
+
+        "Weights":{
+            "Weight Gain":4,
+            "Irregular Periods":5,
+            "Fatigue":3
+        }
+    },
+
+
+    "Urinary Infection": {
+
+        "Category":"Urinary",
+
+        "Severity":"Medium",
+
+        "Specialist":"Urologist",
+
+        "Symptoms":[
+            "Burning Urination",
+            "Frequent Urination",
+            "Blood in Urine"
+        ],
+
+        "Weights":{
+            "Burning Urination":5,
+            "Frequent Urination":4,
+            "Blood in Urine":5
+        }
+    },
+
+
+    "Kidney Failure": {
+
+        "Category":"Kidney",
+
+        "Severity":"Emergency",
+
+        "Specialist":"Nephrologist",
+
+        "Symptoms":[
+            "Fatigue",
+            "Swelling",
+            "Frequent Urination"
+        ],
+
+        "Weights":{
+            "Fatigue":4,
+            "Swelling":4,
+            "Frequent Urination":5
+        }
+    },
+
+
+    "Appendicitis": {
+
+        "Category":"Digestive",
+
+        "Severity":"Emergency",
+
+        "Specialist":"Surgeon",
+
+        "Symptoms":[
+            "Stomach Pain",
+            "Fever",
+            "Vomiting"
+        ],
+
+        "Weights":{
+            "Stomach Pain":5,
+            "Fever":3,
+            "Vomiting":4
+        }
+    },
+
+
+    "Irritable Bowel Syndrome": {
+
+        "Category":"Digestive",
+
+        "Severity":"Medium",
+
+        "Specialist":"Gastroenterologist",
+
+        "Symptoms":[
+            "Stomach Pain",
+            "Diarrhea",
+            "Constipation"
+        ],
+
+        "Weights":{
+            "Stomach Pain":5,
+            "Diarrhea":4,
+            "Constipation":4
+        }
+    },
+
+
+    "Migraine Chronic": {
+
+        "Category":"Neurological",
+
+        "Severity":"Medium",
+
+        "Specialist":"Neurologist",
+
+        "Symptoms":[
+            "Severe Headache",
+            "Nausea",
+            "Blurred Vision"
+        ],
+
+        "Weights":{
+            "Severe Headache":5,
+            "Nausea":3,
+            "Blurred Vision":4
+        }
+    },
+
+
+    "Skin Infection": {
+
+        "Category":"Skin",
+
+        "Severity":"Medium",
+
+        "Specialist":"Dermatologist",
+
+        "Symptoms":[
+            "Skin Rash",
+            "Swelling",
+            "Itching"
+        ],
+
+        "Weights":{
+            "Skin Rash":5,
+            "Swelling":4,
+            "Itching":4
+        }
+    },
+
+
+    "Eczema": {
+
+        "Category":"Skin",
+
+        "Severity":"Low",
+
+        "Specialist":"Dermatologist",
+
+        "Symptoms":[
+            "Dry Skin",
+            "Itching",
+            "Skin Rash"
+        ],
+
+        "Weights":{
+            "Dry Skin":5,
+            "Itching":5,
+            "Skin Rash":4
+        }
+    },
+
+
+    "Psoriasis": {
+
+        "Category":"Skin",
+
+        "Severity":"Medium",
+
+        "Specialist":"Dermatologist",
+
+        "Symptoms":[
+            "Skin Rash",
+            "Dry Skin",
+            "Itching"
+        ],
+
+        "Weights":{
+            "Skin Rash":5,
+            "Dry Skin":4,
+            "Itching":4
+        }
+    }
+}

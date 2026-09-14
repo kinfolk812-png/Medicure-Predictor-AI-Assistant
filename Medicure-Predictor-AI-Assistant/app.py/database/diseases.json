@@ -1,0 +1,378 @@
+{
+    "Common Cold": {
+        "Symptoms": [
+            "Cough",
+            "Runny Nose",
+            "Sneezing",
+            "Sore Throat",
+            "Fever",
+            "Headache"
+        ],
+        "Weights": {
+            "Cough": 3,
+            "Runny Nose": 4,
+            "Sneezing": 3,
+            "Sore Throat": 3,
+            "Fever": 2,
+            "Headache": 2
+        }
+    },
+
+
+    "Influenza (Flu)": {
+        "Symptoms": [
+            "High Fever",
+            "Cough",
+            "Body Pain",
+            "Fatigue",
+            "Headache",
+            "Chills"
+        ],
+        "Weights": {
+            "High Fever": 5,
+            "Cough": 3,
+            "Body Pain": 4,
+            "Fatigue": 3,
+            "Headache": 2,
+            "Chills": 4
+        }
+    },
+
+
+    "COVID-19": {
+        "Symptoms": [
+            "Fever",
+            "Dry Cough",
+            "Difficulty Breathing",
+            "Fatigue",
+            "Loss of Taste",
+            "Loss of Smell"
+        ],
+        "Weights": {
+            "Fever": 3,
+            "Dry Cough": 5,
+            "Difficulty Breathing": 5,
+            "Fatigue": 3,
+            "Loss of Taste": 5,
+            "Loss of Smell": 5
+        }
+    },
+
+
+    "Pneumonia": {
+        "Symptoms": [
+            "Fever",
+            "Cough",
+            "Chest Pain",
+            "Difficulty Breathing",
+            "Fatigue"
+        ],
+        "Weights": {
+            "Fever": 3,
+            "Cough": 3,
+            "Chest Pain": 5,
+            "Difficulty Breathing": 5,
+            "Fatigue": 2
+        }
+    },
+
+
+    "Asthma": {
+        "Symptoms": [
+            "Difficulty Breathing",
+            "Chest Tightness",
+            "Cough",
+            "Chest Pain"
+        ],
+        "Weights": {
+            "Difficulty Breathing": 5,
+            "Chest Tightness": 5,
+            "Cough": 3,
+            "Chest Pain": 2
+        }
+    },
+
+
+    "Migraine": {
+        "Symptoms": [
+            "Severe Headache",
+            "Nausea",
+            "Blurred Vision",
+            "Dizziness"
+        ],
+        "Weights": {
+            "Severe Headache": 5,
+            "Nausea": 3,
+            "Blurred Vision": 4,
+            "Dizziness": 3
+        }
+    },
+
+
+    "Diabetes": {
+        "Symptoms": [
+            "Excessive Thirst",
+            "Frequent Urination",
+            "Weight Loss",
+            "Fatigue"
+        ],
+        "Weights": {
+            "Excessive Thirst": 5,
+            "Frequent Urination": 5,
+            "Weight Loss": 4,
+            "Fatigue": 3
+        }
+    },
+
+
+    "Hypertension": {
+        "Symptoms": [
+            "High Blood Pressure",
+            "Headache",
+            "Dizziness",
+            "Chest Pain"
+        ],
+        "Weights": {
+            "High Blood Pressure": 5,
+            "Headache": 3,
+            "Dizziness": 3,
+            "Chest Pain": 4
+        }
+    },
+
+
+    "Food Poisoning": {
+        "Symptoms": [
+            "Vomiting",
+            "Nausea",
+            "Diarrhea",
+            "Stomach Pain"
+        ],
+        "Weights": {
+            "Vomiting": 5,
+            "Nausea": 4,
+            "Diarrhea": 5,
+            "Stomach Pain": 3
+        }
+    },
+
+
+    "Gastritis": {
+        "Symptoms": [
+            "Stomach Pain",
+            "Nausea",
+            "Vomiting",
+            "Loss of Appetite"
+        ],
+        "Weights": {
+            "Stomach Pain": 5,
+            "Nausea": 3,
+            "Vomiting": 3,
+            "Loss of Appetite": 4
+        }
+    },
+
+
+    "Skin Allergy": {
+        "Symptoms": [
+            "Skin Rash",
+            "Itching",
+            "Swelling"
+        ],
+        "Weights": {
+            "Skin Rash": 5,
+            "Itching": 5,
+            "Swelling": 3
+        }
+    },
+
+
+    "Dermatitis": {
+        "Symptoms": [
+            "Skin Rash",
+            "Dry Skin",
+            "Itching"
+        ],
+        "Weights": {
+            "Skin Rash": 4,
+            "Dry Skin": 4,
+            "Itching": 5
+        }
+    },
+
+
+    "Conjunctivitis": {
+        "Symptoms": [
+            "Red Eyes",
+            "Watery Eyes",
+            "Eye Pain"
+        ],
+        "Weights": {
+            "Red Eyes": 5,
+            "Watery Eyes": 4,
+            "Eye Pain": 3
+        }
+    },
+
+
+    "Ear Infection": {
+        "Symptoms": [
+            "Ear Pain",
+            "Fever",
+            "Hearing Loss"
+        ],
+        "Weights": {
+            "Ear Pain": 5,
+            "Fever": 3,
+            "Hearing Loss": 4
+        }
+    },
+
+
+    "Arthritis": {
+        "Symptoms": [
+            "Joint Pain",
+            "Swollen Joints",
+            "Muscle Pain"
+        ],
+        "Weights": {
+            "Joint Pain": 5,
+            "Swollen Joints": 4,
+            "Muscle Pain": 3
+        }
+    },
+
+
+    "Urinary Tract Infection": {
+        "Symptoms": [
+            "Burning Urination",
+            "Frequent Urination",
+            "Blood in Urine"
+        ],
+        "Weights": {
+            "Burning Urination": 5,
+            "Frequent Urination": 4,
+            "Blood in Urine": 5
+        }
+    },
+
+
+    "Anxiety Disorder": {
+        "Symptoms": [
+            "Anxiety",
+            "Stress",
+            "Difficulty Sleeping"
+        ],
+        "Weights": {
+            "Anxiety": 5,
+            "Stress": 4,
+            "Difficulty Sleeping": 3
+        }
+    },
+
+
+    "Depression": {
+        "Symptoms": [
+            "Depression",
+            "Fatigue",
+            "Difficulty Sleeping"
+        ],
+        "Weights": {
+            "Depression": 5,
+            "Fatigue": 3,
+            "Difficulty Sleeping": 4
+        }
+    },
+
+
+    "Thyroid Disorder": {
+        "Symptoms": [
+            "Weight Gain",
+            "Weight Loss",
+            "Fatigue"
+        ],
+        "Weights": {
+            "Weight Gain": 4,
+            "Weight Loss": 4,
+            "Fatigue": 3
+        }
+    },
+
+
+    "Anemia": {
+        "Symptoms": [
+            "Weakness",
+            "Fatigue",
+            "Dizziness"
+        ],
+        "Weights": {
+            "Weakness": 4,
+            "Fatigue": 5,
+            "Dizziness": 3
+        }
+    },
+
+
+    "Dengue": {
+        "Symptoms": [
+            "High Fever",
+            "Body Pain",
+            "Headache",
+            "Weakness"
+        ],
+        "Weights": {
+            "High Fever": 5,
+            "Body Pain": 4,
+            "Headache": 3,
+            "Weakness": 3
+        }
+    },
+
+
+    "Malaria": {
+        "Symptoms": [
+            "High Fever",
+            "Chills",
+            "Fatigue",
+            "Headache"
+        ],
+        "Weights": {
+            "High Fever": 5,
+            "Chills": 5,
+            "Fatigue": 3,
+            "Headache": 3
+        }
+    },
+
+
+    "Chickenpox": {
+        "Symptoms": [
+            "Fever",
+            "Skin Rash",
+            "Itching",
+            "Blisters"
+        ],
+        "Weights": {
+            "Fever": 3,
+            "Skin Rash": 5,
+            "Itching": 4,
+            "Blisters": 5
+        }
+    },
+
+
+    "Tuberculosis": {
+        "Symptoms": [
+            "Dry Cough",
+            "Chest Pain",
+            "Fatigue",
+            "Weight Loss"
+        ],
+        "Weights": {
+            "Dry Cough": 5,
+            "Chest Pain": 4,
+            "Fatigue": 3,
+            "Weight Loss": 5
+        }
+    }
+}
