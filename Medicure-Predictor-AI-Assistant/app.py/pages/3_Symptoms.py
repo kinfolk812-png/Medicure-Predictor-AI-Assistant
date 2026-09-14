@@ -1,6 +1,5 @@
 import streamlit as st
 import json
-
 from pathlib import Path
 
 from modules.background import set_medical_background
@@ -257,12 +256,10 @@ set_medical_background()
 # -----------------------------------
 
 def load_symptoms():
+    base_dir = Path(__file__).resolve().parent.parent
+    symptoms_file = base_dir / "database" / "symptoms.json"
 
-    with open(
-        "database/symptoms.json",
-        "r"
-    ) as file:
-
+    with open(symptoms_file, "r", encoding="utf-8") as file:
         return json.load(file)
 
 
